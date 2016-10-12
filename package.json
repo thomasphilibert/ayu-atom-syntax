@@ -1,0 +1,15 @@
+{
+  "name": "ayu",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Converted version of the Ayu syntax theme for Sublime text",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/ayu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
